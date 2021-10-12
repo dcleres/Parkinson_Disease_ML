@@ -122,7 +122,7 @@ numpydoc==0.8.0
 odict==1.6.2
 odo==0.5.1
 olefile==0.45.1
-opencv-contrib-python==3.3.0.10
+opencv-contrib-python==4.2.0.32
 openpyxl==2.5.3
 optional-django==0.1.0
 packaging==19.0
