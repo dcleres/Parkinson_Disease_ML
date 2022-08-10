@@ -106,7 +106,7 @@ msgpack==0.5.6
 msgpack-python==0.5.6
 multipledispatch==0.5.0
 navigator-updater==0.2.1
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbformat==4.4.0
 nd2reader==3.1.0
 networkx==2.1
